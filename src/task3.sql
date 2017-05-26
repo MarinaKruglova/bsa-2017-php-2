@@ -1,0 +1,1 @@
+ALTER TABLE users ADD is_deleted boolean DEFAULT 0 NOT NULL;
